@@ -4,42 +4,34 @@ Research materials supporting the manuscript:
 
 **“Early Signs of AI Hegemonization in Translation and Interpreting: A Three-Corpus Analysis”**
 
-This repository contains source indexes, coding records, analytical summaries, and evidence-chain materials used in the study. The article examines whether AI is moving from an optional technology toward an infrastructural professional order in translation and interpreting.
+This repository contains the source indexes, coding records, analytical summaries, and counterevidence used in the study. The article examines whether AI is moving from an optional technology toward an infrastructural professional order in translation and interpreting.
 
 ## Repository contents
 
-### 1. `Provider_Corpus_Source_Index_v0.1.xlsx`
+### 1. `PROVIDER_CORPUS_INDEX.md`
 Provider-side corpus containing **33 source items** from six representative translation, interpreting, meeting-platform, or hybrid language-service providers: Interprefy, Wordly, DeepL, Microsoft Teams, Zoom, and KUDO.
 
-The workbook documents:
-- source title and public URL;
-- provider and date;
-- product or platform function;
-- workflow embedding and functional bundling;
-- provider rule-setting or architectural power;
-- coding notes and limits on inference.
-
-Provider materials are used to document product architecture, service configuration, and provider framing. Provider-reported adoption claims are not treated as independent evidence of stakeholder uptake.
+The index records source titles, public URLs, dates, suggested analytical codes, and source priority. Provider materials are used to document product architecture, service configuration, workflow embedding, functional bundling, and provider framing. Provider-reported adoption claims are **not** treated as independent evidence of stakeholder uptake.
 
 ### 2. `Supplementary File Corpus Summary.xlsx`
 Stakeholder-adoption corpus containing **29 evidence units** covering professional associations, credentialing bodies, governance coalitions, institutional interpreting services, public purchasers, education and training initiatives, industry surveys, and practitioner voices.
 
-The workbook includes:
-- the stakeholder corpus;
-- a codebook;
-- corpus summary;
-- analytical mapping.
+The workbook contains:
+- `Stakeholder_Corpus` — 29 evidence units with actor, source, URL, observed action, analytical mechanism, coding, limits/counterevidence, and evidence strength;
+- `Codebook` — stakeholder-side operational codes;
+- `Corpus_Summary` — coverage by stakeholder group;
+- `Analytical_Mapping` — mapping from evidence to the study’s analytical argument.
 
-### 3. `AI_Hegemonization_Evidence_Workbook_v0.1.xlsx`
-Dependency / exit-cost and evidence-chain workbook. It includes:
-- a **25-item dependency / exit-cost corpus**;
-- pilot coding records;
-- evidence-strength summaries;
-- an evidence-chain matrix;
-- a unified analytical codebook;
-- theory-anchor notes.
+### 3. `DEPENDENCY_EXIT_COST_INDEX.md`
+Dependency / exit-cost corpus containing **25 evidence units**. It records evidence of economic pressure, client pre-processing, workflow preconditions, competence updating, procurement defaults, platform dependence, human alternatives, and opt-out pathways.
 
-The dependency corpus records both supporting and counterevidence, including economic pressure, client pre-processing, workflow preconditions, competence updating, procurement defaults, platform dependence, human alternatives, and opt-out pathways.
+Dependency intensity is recorded as:
+- **0** — counterevidence / realistic exit remains available;
+- **1** — soft pressure, such as competence, training, or normative expectations;
+- **2** — observable exit costs, such as price pressure, client pre-processing, organizational workflow, or procurement conditions;
+- **3** — hard lock-in or mandatory dependence.
+
+The current corpus contains substantial evidence of soft and observable exit costs but does **not** establish generalized hard lock-in across translation and interpreting.
 
 ## Analytical framework
 
@@ -87,17 +79,16 @@ Counterevidence is retained throughout the dataset so that hegemonization remain
 
 ## Scope and verification
 
-The corpus was closed on **15 September 2026**. Web-based materials were verified through that date unless otherwise indicated in the workbooks.
+The corpus was closed on **15 September 2026**. Web-based materials were verified through that date unless otherwise indicated in the records.
 
-The source index records public URLs and analytical coding. This repository does **not** redistribute copyrighted third-party full-text articles, reports, or webpages.
+The repository provides source indexes, coding records, and links to publicly available materials. It does **not** redistribute copyrighted third-party full-text articles, reports, or webpages.
 
 ## Data availability
 
-The source index, coding records, and analytical workbooks supporting the study are openly available in this repository.
+The source indexes and coding records supporting the study are openly available in this repository:
 
-Repository URL:  
 https://github.com/thecassieyouknow/AI-Hegemonization-in-Translation-and-Interpreting
 
 ## Citation
 
-If citing these research materials, please cite the associated article once published. Until publication, the repository may be cited by title and repository URL.
+If citing these research materials, please cite the associated article once published. Until publication, the repository may be cited by project title and repository URL.
